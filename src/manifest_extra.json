@@ -1,0 +1,42 @@
+{
+ "zoom-0": {
+  "src": "img/zoom-1.jpg",
+  "w": 528,
+  "h": 480
+ },
+ "zoom-1": {
+  "src": "img/zoom-2.jpg",
+  "w": 457,
+  "h": 675
+ },
+ "zoom-2": {
+  "src": "img/zoom-3.jpg",
+  "w": 307,
+  "h": 383
+ },
+ "zoom-4": {
+  "src": "img/zoom-5.jpg",
+  "w": 415,
+  "h": 900
+ },
+ "zoom-5": {
+  "src": "img/zoom-6.jpg",
+  "w": 415,
+  "h": 900
+ },
+ "qr-code-2": {
+  "src": "img/qr-code-3.jpg",
+  "w": 415,
+  "h": 900
+ },
+ "qr-code-3": {
+  "src": "img/qr-code-4.jpg",
+  "w": 606,
+  "h": 500
+ },
+ "zoom-3": {
+  "src": "img/zoom-4.jpg",
+  "w": 608,
+  "h": 640
+ }
+}
